@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/atulbihari94/node-first-app#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "nodemon": "^2.0.12"
